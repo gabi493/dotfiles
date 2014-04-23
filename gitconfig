@@ -1,0 +1,10 @@
+[user]
+	name = Gabriel C.-
+	email = gabrielcarrillolopez@gmail.com
+
+[color]
+	ui = auto
+[credential]
+	helper = cache --timeout=7200
+[core]
+	editor = vim
